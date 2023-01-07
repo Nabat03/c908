@@ -1,0 +1,13 @@
+.bg-image {
+    background-image: url('../img/bg.jpg');
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.bg-image .bg-dark {
+    background-color: rgba(31, 31, 31, .5);
+}
+
+.outline-none {
+    outline: none;
+}
